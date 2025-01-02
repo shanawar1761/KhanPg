@@ -87,7 +87,7 @@ const Navbar = () => {
               </div>
             </Link>
             <div className="text-[#3d3e40] text-xl md:text-xl lg:text-2xl mx-2">
-              Khan Boys' Hostel & PG
+              Khan Boys' PG
             </div>
           </div>
 
