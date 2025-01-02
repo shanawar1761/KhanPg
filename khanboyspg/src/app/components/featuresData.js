@@ -24,21 +24,6 @@ export const featuresData = [
     image: <Image src={Camera} alt="CCTV Camera" className="w-full h-full" />,
   },
   {
-    title: "Power Backup",
-    subtext: "Uninterrupted power supply with heavy inverter.",
-    image: <Image src={Power} alt="CCTV Camera" className="w-full h-full" />,
-  },
-  {
-    title: "Wi-Fi Up to 40 Mbps",
-    subtext: "High-speed internet for seamless connectivity.",
-    image: <Image src={Wifi} alt="CCTV Camera" className="w-full h-full" />,
-  },
-  {
-    title: "RO Water Cooler Purifier",
-    subtext: "Pure and safe drinking water, always!",
-    image: <Image src={Water} alt="CCTV Camera" className="w-full h-full" />,
-  },
-  {
     title: "27x7 Manned Security",
     subtext:
       "A person will be available for safty security and any help required at all times.",
