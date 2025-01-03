@@ -24,6 +24,11 @@ export const featuresData = [
     image: <Image src={Camera} alt="CCTV Camera" className="w-full h-full" />,
   },
   {
+    title: "RO Water Cooler Purifier",
+    subtext: "Pure and safe drinking water, always!",
+    image: <Image src={Water} alt="CCTV Camera" className="w-full h-full" />,
+  },
+  {
     title: "27x7 Manned Security",
     subtext:
       "A person will be available for safty security and any help required at all times.",
